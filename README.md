@@ -2,7 +2,6 @@
 
 - 🔭 I’m currently working on HCMUTE
 - 🌱 I’m currently learning React-Native
-- 💬 Ask me about Flutter or Mobile Application
 - 📫 How to reach me: [Twitter - @DaoHongVinh1](https://twitter.com/DaoHongVinh1)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: You cannot complete a project without using StackOverflow 😄😄
