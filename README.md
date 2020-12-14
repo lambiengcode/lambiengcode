@@ -1,16 +1,17 @@
-### Hi there 👋
+## lambiengcode
 
-<!--
-**lambiengcode/lambiengcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on HCMUTE
+- 🌱 I’m currently learning React-Native
+- 💬 Ask me about Flutter or Mobile Application
+- 📫 How to reach me: [Twitter - @DaoHongVinh1](https://twitter.com/DaoHongVinh1)
+- 😄 Pronouns: He/His
+- ⚡ Fun fact: You cannot complete a project without using StackOverflow 😄😄
 
-Here are some ideas to get you started:
+### Skills and Experience
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- :atom_symbol: React Native
+- :iphone: Flutter
+- :computer: Java, Kotlin (Android Native)
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=lambiengcode&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
