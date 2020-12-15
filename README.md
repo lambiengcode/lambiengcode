@@ -6,11 +6,11 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: You cannot complete a project without using StackOverflow 😄😄
 
-### Skills and Experience
+### Top Technologies
 
-- :atom_symbol: React Native
-- :iphone: Flutter
-- :computer: Java, Kotlin (Android Native)
+<!-- TODO: Make technologies links takes you to repositories -->
+
+[![ReactNative Badge](https://img.shields.io/badge/-ReactNative-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Flutter Badge](https://img.shields.io/badge/-Flutter-007acc?style=for-the-badge&labelColor=black&logo=flutter&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![Android Badge](https://img.shields.io/badge/-Android-3C8749?style=for-the-badge&labelColor=black&logo=android&logoColor=3C8749)](#)[![Firebase Badge](https://img.shields.io/badge/-Firebase-f00000?style=for-the-badge&labelColor=black&logo=firebase&logoColor=f00000)](#)
 
 ### Coding Stats
 
