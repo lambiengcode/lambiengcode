@@ -12,6 +12,11 @@
 - :iphone: Flutter
 - :computer: Java, Kotlin (Android Native)
 
+### Coding Stats
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ### Github Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=lambiengcode&show_icons=true&theme=tokyonight" />
