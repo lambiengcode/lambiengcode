@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning React-Native
 - 📫 How to reach me: [Twitter - @DaoHongVinh1](https://twitter.com/DaoHongVinh1)
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: You cannot complete a project without using StackOverflow 😄😄
+- ⚡ Fun fact: You cannot complete a project without using StackOverflow :snail: :snail:
 
 ### Top Technologies
 
