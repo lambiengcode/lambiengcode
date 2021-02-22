@@ -26,4 +26,4 @@ reStructuredText   5 mins          ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 ### Github Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=lambiengcode&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=lambiengcode&count_private=true&show_icons=true&theme=tokyonight" />
