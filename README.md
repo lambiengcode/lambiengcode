@@ -1,7 +1,7 @@
 ## lambiengcode
 
 - 🔭 I’m currently working on HCMUTE
-- 🌱 I’m currently learning React-Native
+- 🌱 I’m currently learning Nodejs, Socket.io
 - 📫 How to reach me: [Twitter - @DaoHongVinh1](https://twitter.com/DaoHongVinh1)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: You cannot complete a project without using StackOverflow :snail: :snail:
