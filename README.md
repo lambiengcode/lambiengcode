@@ -26,4 +26,9 @@ YAML         44 mins         ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 ### Github Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=lambiengcode&count_private=true&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=lambiengcode&count_private=true&show_icons=true&theme=blueberry" />
+
+### Extra Pins
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lambiengcode&repo=intercom_desktop&theme=blueberry)](https://github.com/lambiengcode/intercom_desktop)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lambiengcode&repo=project_college_ecommerce&theme=blueberry)](https://github.com/lambiengcode/project_college_ecommerce)
