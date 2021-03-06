@@ -1,6 +1,6 @@
 ## lambiengcode
 
-- 🔭 I’m currently working on HCMUTE
+- :desktop_computer: I’m currently work from Home
 - 🌱 I’m currently learning Nodejs, Socket.io
 - 📫 How to reach me: [Twitter - @DaoHongVinh1](https://twitter.com/DaoHongVinh1)
 - 😄 Pronouns: He/His
