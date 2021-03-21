@@ -1,4 +1,7 @@
-## lambiengcode
+ 
+```text
+i'm lambiengcode
+```
 
 - :desktop_computer: I’m currently work from Home
 - 🌱 I’m currently learning Nodejs, Socket.io
