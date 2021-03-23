@@ -7,7 +7,8 @@ i'm lambiengcode
 - 🌱 I’m currently learning Nodejs, Socket.io
 - 📫 How to reach me: [Twitter - @DaoHongVinh1](https://twitter.com/DaoHongVinh1)
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: You cannot complete a project without using StackOverflow :snail: :snail:
+- ✍️ My Blog: [https://lambiengcode.com](https://lambiengcode.blogspot.com)
+- ⚡ Fun fact: You cannot complete a project without using StackOverflow
 
 ### Top Technologies
 
