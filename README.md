@@ -16,8 +16,10 @@ i'm lambiengcode
 
 ### Hello visitors
 <p align="center">
-  <code><img src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='80"'>
-  </p>
+  <code><img src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='80"' height='80"'>
+  <img src='https://media.giphy.com/media/98uBZTzlXMhkk/giphy.gif' width='80"' height='80"'>>
+  <img src='https://raw.githubusercontent.com/ganeshdipdumbare/ganeshdipdumbare/master/gif/flutter.gif' width='80"' height='80"'>>
+</p>
   
 </code>
 <p align="center">
@@ -26,7 +28,7 @@ i'm lambiengcode
   
    <br>
    <a href="https://hits.seeyoufarm.com">
-      <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flambiengcode&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" />
+      <img src="https://roszkowski.dev/images/2020-05-04/flutter_logo_leg.gif" />
    </a>
 </p>
 
@@ -51,9 +53,9 @@ Java         27 mins         ⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 ***Github profile summary*** <a href="https://profile-summary-for-github.com/user/lambiengcode">https://profile-summary-for-github.com/user/lambiengcode</a>
 
 <p>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=lambiengcode&theme=blueberry" alt="lambiengcode" width="450"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=lambiengcode&theme=blueberry" alt="lambiengcode" width="400"/>
  
-<img src="https://github-readme-stats.vercel.app/api?username=lambiengcode&count_private=true&show_icons=true&theme=blueberry" width="450"/>
+<img src="https://github-readme-stats.vercel.app/api?username=lambiengcode&count_private=true&show_icons=true&theme=blueberry" width="400"/>
 </p>
 
 
