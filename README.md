@@ -52,7 +52,7 @@ Java         27 mins         ⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 - ***Github profile summary*** <a href="https://profile-summary-for-github.com/user/lambiengcode">https://profile-summary-for-github.com/user/lambiengcode</a>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=lambiengcode&theme=blueberry" alt="lambiengcode" width="800px" height="220px"/>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=lambiengcode&theme=blueberry" alt="lambiengcode" width="800px" height="200px"/>
 </p>
 
 <p>
