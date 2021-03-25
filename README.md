@@ -1,14 +1,20 @@
- 
-```text
-i'm lambiengcode
-```
+### Hello there 🌝
 
-- :desktop_computer: I’m currently work from Home
+<img src='https://thumbs.gfycat.com/AngelicConcreteHypsilophodon-max-1mb.gif' width='400"' height='200"'>
+
+### About me 🐬
+
+- 🖐️ I'm lambiengcode
+- 🖥️ I’m currently work from Home
 - 🌱 I’m currently learning Nodejs, Socket.io
 - 📫 How to reach me: [Twitter - @DaoHongVinh1](https://twitter.com/DaoHongVinh1)
 - ✍️ My Blog: [https://lambiengcode.com](https://lambiengcode.blogspot.com)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: You cannot complete a project without using StackOverflow
+
+### Awards
+
+- 🏅 Idea Award Hackathon HoChiMinh City 2020 - [Repository Here](https://github.com/lambiengcode/hackathon2020)
 
 ### Skills
 
