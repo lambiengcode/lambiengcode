@@ -39,7 +39,7 @@
 
 ### Resume and blog
 - [Blog](https://lambiengcode.blogspot.com)
-- [My CV](https://www.topcv.vn/xem-cv/427f62c8d5d34436c15aabd472c253f9?utm_source=link_i_topcv&utm_campaign=link_i_topcv&utm_medium=link_i_topcv)
+- [My CV](https://i.topcv.vn/daohongvinh?ref=3944746)
 
 ### Coding Stats
 
