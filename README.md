@@ -6,7 +6,7 @@
 
 - 🖐️ I'm lambiengcode
 - 🖥️ I’m currently work from Home
-- 🌱 I’m currently learning Nodejs, Socket.io
+- 🌱 I’m currently learning Docker, AWS
 - 📫 How to reach me: [Twitter - @DaoHongVinh1](https://twitter.com/DaoHongVinh1)
 - ✍️ My Blog: [https://lambiengcode.com](https://lambiengcode.blogspot.com)
 - 😄 Pronouns: He/His
