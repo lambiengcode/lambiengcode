@@ -4,17 +4,17 @@
 
 ### About me 🐬
 
-- 🖐️ I'm lambiengcode
+- 🖐️ I'm Dao Hong Vinh
 - 🖥️ I’m currently work from Home
 - 🌱 I’m currently learning Docker, AWS
 - 📫 How to reach me: [Twitter - @DaoHongVinh1](https://twitter.com/DaoHongVinh1)
-- ✍️ My Blog: [https://lambiengcode.com](https://lambiengcode.blogspot.com)
+- ✍️ My Blog: [https://hongvinhmobile.com](https://lambiengcode.blogspot.com)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: You cannot complete a project without using StackOverflow
 
 ### Awards
 
-- 🏅 Idea Award Hackathon HoChiMinh City 2020 - [Repository Here](https://github.com/lambiengcode/hackathon2020)
+- 🏅 Idea Award Hackathon HoChiMinh City 2020 - [Repository Here](https://github.com/hongvinhmobile/hackathon2020)
 
 ### Skills
 
@@ -22,14 +22,14 @@
 
 ### Extra Pins
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lambiengcode&repo=intercom_desktop&theme=blueberry)](https://github.com/lambiengcode/intercom_desktop)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lambiengcode&repo=flutter_getx_template&theme=blueberry)](https://github.com/lambiengcode/flutter_getx_template)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hongvinhmobile&repo=intercom_desktop&theme=blueberry)](https://github.com/hongvinhmobile/intercom_desktop)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hongvinhmobile&repo=flutter_getx_template&theme=blueberry)](https://github.com/hongvinhmobile/flutter_getx_template)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lambiengcode&repo=blockchain_js&theme=blueberry)](https://github.com/lambiengcode/blockchain_js)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lambiengcode&repo=flutter_background&theme=blueberry)](https://github.com/lambiengcode/flutter_background)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hongvinhmobile&repo=blockchain_js&theme=blueberry)](https://github.com/hongvinhmobile/blockchain_js)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hongvinhmobile&repo=flutter_background&theme=blueberry)](https://github.com/hongvinhmobile/flutter_background)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lambiengcode&repo=flutter_music_player&theme=blueberry)](https://github.com/lambiengcode/flutter_music_player)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lambiengcode&repo=project_college_ec&theme=blueberry)](https://github.com/lambiengcode/project_college_ec)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hongvinhmobile&repo=flutter_music_player&theme=blueberry)](https://github.com/hongvinhmobile/flutter_music_player)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hongvinhmobile&repo=project_college_ec&theme=blueberry)](https://github.com/hongvinhmobile/project_college_ec)
 
 ### Resume and blog
 <p align="center">
@@ -65,13 +65,13 @@ Other        25 mins         ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 ### Github Stats
 
-- ***Github profile summary*** <a href="https://profile-summary-for-github.com/user/lambiengcode">https://profile-summary-for-github.com/user/lambiengcode</a>
+- ***Github profile summary*** <a href="https://profile-summary-for-github.com/user/hongvinhmobile">https://profile-summary-for-github.com/user/hongvinhmobile</a>
 
 <p>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=lambiengcode&theme=blueberry" alt="lambiengcode"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hongvinhmobile&theme=blueberry" alt="hongvinhmobile"/>
 </p>
 
 <p>
-<img src="https://github-readme-stats.vercel.app/api?username=lambiengcode&count_private=true&show_icons=true&theme=blueberry" width=55% height="204px"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoc081098&show_icons=true&layout=compact&cache_seconds=1800&langs_count=8&theme=blueberry&count_private=true&show_icons=true" width=40% height="200px"/>
+<img src="https://github-readme-stats.vercel.app/api?username=hongvinhmobile&count_private=true&show_icons=true&theme=blueberry" width=55% height="204px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hongvinhmobile&show_icons=true&layout=compact&cache_seconds=1800&langs_count=8&theme=blueberry&count_private=true&show_icons=true" width=40% height="200px"/>
 </p>
