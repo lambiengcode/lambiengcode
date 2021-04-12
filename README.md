@@ -6,7 +6,7 @@
 
 - 🖐️ I'm Dao Hong Vinh
 - 🖥️ I’m currently work from Home
-- 🌱 I’m currently learning Docker, AWS
+- 🌱 I’m currently learning Docker, AWS, SocketIO
 - 📫 How to reach me: [Twitter - @DaoHongVinh1](https://twitter.com/DaoHongVinh1)
 - ✍️ My Blog: [https://hongvinhmobile.com](https://lambiengcode.blogspot.com)
 - 😄 Pronouns: He/His
@@ -51,7 +51,7 @@
 - [Blog](https://lambiengcode.blogspot.com)
 - [My CV](https://i.topcv.vn/daohongvinh?ref=3944746)
 
-### Coding Stats
+ ### Coding Stats - Last 7 Days
 
 <!--START_SECTION:waka-->
 ```text
