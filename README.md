@@ -28,7 +28,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hongvinhmobile&repo=blockchain_js&theme=blueberry)](https://github.com/hongvinhmobile/blockchain_js)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hongvinhmobile&repo=flutter_background&theme=blueberry)](https://github.com/hongvinhmobile/flutter_background)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hongvinhmobile&repo=flutter_music_player&theme=blueberry)](https://github.com/hongvinhmobile/flutter_music_player)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hongvinhmobile&repo=flutter_chat_realtime&theme=blueberry)](https://github.com/hongvinhmobile/flutter_chat_realtime)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hongvinhmobile&repo=project_college_ec&theme=blueberry)](https://github.com/hongvinhmobile/project_college_ec)
 
 ### Resume and blog
