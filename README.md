@@ -12,7 +12,7 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: You cannot complete a project without using StackOverflow
 
-#### Awards
+### Awards
 
 - 🏅 Idea Award Hackathon HoChiMinh City 2020 - [Repository Here](https://github.com/hongvinhmobile/hackathon2020)
 
