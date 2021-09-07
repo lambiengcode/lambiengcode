@@ -6,7 +6,7 @@
 
 - 🖐️ I'm Dao Hong Vinh
 - 🖥️ I’m currently work from Home
-- 🌱 I’m currently learning Docker, AWS, SocketIO
+- 🌱 I’m currently learning iOS - Swift, Design UI/UX
 - 📫 How to reach me: [Twitter - @DaoHongVinh1](https://twitter.com/DaoHongVinh1)
 - ✍️ My Blog: [https://hongvinhmobile.com](https://lambiengcode.blogspot.com)
 - 😄 Pronouns: He/His
