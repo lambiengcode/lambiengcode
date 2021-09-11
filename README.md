@@ -2,12 +2,12 @@
 
 <p align="left" style="display:inline"> 
 <br>
-I'm <strong>Dao Hong Vinh</strong>, currently a mobile programmer developing the dating app Waodate.
-Also, I'm a freelancer. If you have a need for a mobile app or website, contact me by email: <a href="lambiengcode@gmail.com">lambiengcode@gmail.com</a><br><br>
+I'm <strong>Dao Hong Vinh</strong>, currently a mobile programmer developing the dating application <strong>Waodate</strong>.
+Also, I'm a freelancer. If you have a need for a mobile application or website, contact me by email: <a href="lambiengcode@gmail.com">lambiengcode@gmail.com</a><br><br>
 <strong>My Blog</strong>: https://lambiengcode.blogspot.com <br>
 <strong>Fun fact</strong>: You cannot complete a project without using StackOverflow <br>
 
-<strong>Award</strong><br>
+<strong>Award</strong>
 - Idea Award Hackathon HoChiMinh City 2020 - [Repository](https://github.com/hongvinhmobile/hackathon2020)
 </p>
 <br>
