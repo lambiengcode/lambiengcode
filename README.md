@@ -1,6 +1,6 @@
-<img src="https://www.flyingpenguins.in/services/images/banner_gif.gif" min-width="200px" max-width="300px" width="200px" align="right">
+<img src="https://github.com/hongvinhmobile/hongvinhmobile/blob/main/gif/banner_gif.gif?raw=true" height="300px" align="right" alt="Computador">
 
-<p align="left" style="display:inline"> 
+<p align="justify" style="display:inline"> 
 <br>
 I'm <strong>Dao Hong Vinh</strong>, currently a mobile programmer developing the dating application <strong>Waodate</strong>.
 Also, I'm a freelancer. If you have a need for a mobile application or website, contact me by email: <a href="lambiengcode@gmail.com">lambiengcode@gmail.com</a><br><br>
