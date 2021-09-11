@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="340px" max-width="400px" width="340px" align="right" alt="Computador">
+<img src="https://www.flyingpenguins.in/services/images/banner_gif.gif" min-width="200px" max-width="300px" width="200px" align="right">
 
 <p align="left" style="display:inline"> 
 <br>
