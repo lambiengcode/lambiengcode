@@ -2,7 +2,7 @@
 
 <p align="justify" margin="80%"> 
 <br>
-I'm <strong>Dao Hong Vinh</strong>, currently a mobile programmer developing the dating application <strong>Waodate</strong>.
+I'm <strong>Dao Hong Vinh</strong>, currently working as the team leader mobile of the project <strong>Askany</strong>.
 Also, I'm a freelancer. If you have a need for a mobile application or website, contact me by email: <a href="lambiengcode@gmail.com">lambiengcode@gmail.com</a><br><br>
 <strong>My Blog</strong>: https://lambiengcode.blogspot.com <br>
 <strong>Fun fact</strong>: You cannot complete a project without using StackOverflow <br>
