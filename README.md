@@ -16,7 +16,7 @@ Also, I'm a freelancer. If you have a need for a mobile application or website, 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lamb1engcode&show_icons=true&layout=compact&cache_seconds=1800&langs_count=8&theme=blueberry&count_private=true&show_icons=true" height="180em"/>
 </p>
 
-[My Resume: Dao Hong Vinh](https://www.topcv.vn/xem-cv/WFBVAQAOUVxXUVYGAQMNBgFbDlBQBwMDAFlQAA0d51)
+[My Resume: Dao Hong Vinh](https://www.topcv.vn/xem-cv/AwANAV1VCVYEA1ZVBFIGVwpYAgRUAQtSBlQHUgaf1a)
 
 #### Skills
 [![Flutter Badge](https://img.shields.io/badge/-Flutter-007acc?style=for-the-badge&labelColor=black&logo=flutter&logoColor=007acc)](#) [![Android Badge](https://img.shields.io/badge/-Android-3C8749?style=for-the-badge&labelColor=black&logo=android&logoColor=3C8749)](#)[![Firebase Badge](https://img.shields.io/badge/-Firebase-e69514?style=for-the-badge&labelColor=black&logo=firebase&logoColor=ffa500)](#)
