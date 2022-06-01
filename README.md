@@ -1,5 +1,6 @@
+<!---
 <img src="https://github.com/hongvinhmobile/hongvinhmobile/blob/main/gif/banner_gif.gif?raw=true" height="260px" align="right" alt="Computador">
-
+-->
 <p align="justify" margin="80%"> 
 <br>
 I'm <strong>Dao Hong Vinh</strong>, currently working as the team leader mobile of the project <strong>Askany</strong>.
