@@ -1,10 +1,11 @@
-<!---
-<img src="https://github.com/hongvinhmobile/hongvinhmobile/blob/main/gif/banner_gif.gif?raw=true" height="260px" align="right" alt="Computador">
--->
-<p align="justify" margin="80%"> 
+
+<img src="https://github.com/hongvinhmobile/hongvinhmobile/blob/main/gif/banner_gif.gif?raw=true" width="30%" height=auto align="right" alt="Computador">
+<p align="justify" margin="70%"> 
 <br>
 I'm <strong>Dao Hong Vinh</strong>, currently working as the team leader mobile of the project <strong>Askany</strong>.
 Also, I'm a freelancer. If you have a need for a mobile application or website, contact me by email: <a href="lambiengcode@gmail.com">lambiengcode@gmail.com</a><br><br>
+With more than 2 years of experience working with Flutter and having written Native modules (Kotlin/Java, Swift) to develop Mobile Applications, I would like to work in a Mobile Application Development position.
+The next goal is to develop more complete applications, learn and develop more skills in Native Languages ​​(Kotlin/Java, Swift) and develop management skills to become a reliable Team Leader.<br><br>
 <strong>My Blog</strong>: https://lambiengcode.blogspot.com <br>
 <strong>Fun fact</strong>: You cannot complete a project without using StackOverflow <br>
 
