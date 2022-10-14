@@ -15,8 +15,8 @@ The next goal is to develop more complete applications, learn and develop more s
 </p>
 <br>
 <p>
-<img src="https://github-readme-stats.vercel.app/api?username=lamb1engcode&count_private=true&show_icons=true&theme=blueberry&include_all_commits=true" height="180em"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lamb1engcode&show_icons=true&layout=compact&cache_seconds=1800&langs_count=8&theme=blueberry&count_private=true&show_icons=true" height="180em"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Iambiengcode&count_private=true&show_icons=true&theme=blueberry&include_all_commits=true" height="180em"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iambiengcode&show_icons=true&layout=compact&cache_seconds=1800&langs_count=8&theme=blueberry&count_private=true&show_icons=true" height="180em"/>
 </p>
 
 [My Resume: Dao Hong Vinh](https://www.topcv.vn/xem-cv/AwANAV1VCVYEA1ZVBFIGVwpYAgRUAQtSBlQHUgaf1a)
