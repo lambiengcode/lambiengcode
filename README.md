@@ -10,7 +10,7 @@ The next goal is to develop more complete applications, learn and develop more s
 <strong>Additional...</strong>
 - Idea Award Hackathon HoChiMinh City 2020 - [Repository](https://github.com/hongvinhmobile/hackathon2020)
 - [HackerRank](https://www.hackerrank.com/lambiengcode)
-- [My Resume: Dao (@lambiengcode) Hong Vinh](https://www.topcv.vn/xem-cv/AwANAV1VCVYEA1ZVBFIGVwpYAgRUAQtSBlQHUgaf1a)
+<!-- - [My Resume: Dao (@lambiengcode) Hong Vinh](https://www.topcv.vn/xem-cv/AwANAV1VCVYEA1ZVBFIGVwpYAgRUAQtSBlQHUgaf1a) -->
 </p>
 
 #### Skills
