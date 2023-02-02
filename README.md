@@ -1,7 +1,7 @@
 <p align="justify">
 I'm <strong>Dao (lambiengcode) Hong Vinh</strong>, currently working as the team leader mobile of the project <strong>Askany</strong>.
 Also, I'm a freelancer. If you have a need for a mobile application or website, contact me by email: <a href="lambiengcode@gmail.com">lambiengcode@gmail.com</a><br><br>
-<img src="https://pbs.twimg.com/card_img/1616681484211093504/gWTM_RI-?format=png&name=large" width="28%" height=auto align="right" alt="Computador">
+<img src="https://github.com/Iambiengcode/Iambiengcode/blob/main/gif/lbc_dash.png" width="28%" height=auto align="right" alt="Computador">
 With 3 years of experience working with Flutter and having written Native modules (Kotlin/Java, Swift) to develop Mobile Applications, I would like to work in a Mobile Application Development position.
 The next goal is to develop more complete applications, learn and develop more skills in Native Languages ​​(Kotlin/Java, Swift) and develop management skills to become a reliable Team Leader.<br><br>
 <strong>My Blog</strong>: https://lambiengcode.blogspot.com <br>
