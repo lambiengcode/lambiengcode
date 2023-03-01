@@ -34,6 +34,6 @@ Other         17 mins         ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <!--END_SECTION:waka-->
 
 <p>
-<img src="https://github-readme-stats.vercel.app/api?username=lambiengcode&count_private=true&show_icons=true&theme=merko&include_all_commits=true" height="180em"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lambiengcode&show_icons=true&layout=compact&cache_seconds=1800&langs_count=8&theme=blueberry&count_private=true&show_icons=true" height="180em"/>
+<img src="https://github-readme-stats.vercel.app/api?username=lambiengcode&count_private=true&show_icons=true&theme=chartreuse-dark&include_all_commits=true" height="180em"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lambiengcode&show_icons=true&layout=compact&cache_seconds=1800&langs_count=8&theme=chartreuse-dark&count_private=true&show_icons=true" height="180em"/>
 </p>
