@@ -25,7 +25,7 @@ The next goal is to develop more complete applications, learn and develop more s
 </p>
 
 #### Skills & Tools
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart,kotlin,androidstudio,swift,nodejs,aws,firebase,linux,nginx,mongodb,git,github,linkedin&perline=15&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,kotlin,androidstudio,swift,nodejs,aws,firebase,linux,nginx,mongodb,git,github&perline=15&theme=dark)](https://skillicons.dev)
 
 #### Coding Stats - Last 7 Days
 [![wakatime](https://wakatime.com/badge/user/5d4db953-dc6c-4757-bdef-ad13371c1fab.svg)](https://wakatime.com/@5d4db953-dc6c-4757-bdef-ad13371c1fab)
