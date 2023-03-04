@@ -1,3 +1,4 @@
+[![Twitter Follow](https://img.shields.io/twitter/follow/DaoHongVinh1?style=social)](https://twitter.com/DaoHongVinh1)[![Github Followers](https://img.shields.io/github/followers/lambiengcode?label=Follow)](https://github.com/lambiengcode)[![Twitter Follow](https://img.shields.io/twitter/follow/DaoHongVinh1?style=social)](https://twitter.com/DaoHongVinh1)[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/lambiengcode)
 <p align="justify">
 I'm <strong>Dao (lambiengcode) Hong Vinh</strong>, currently working as the team leader mobile of the project <strong>Askany</strong>.
 <img src="https://github.com/lambiengcode/lambiengcode/blob/main/gif/banner_gif.gif?raw=true" width="26.5%" height=auto align="right" alt="Computador">
