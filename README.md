@@ -3,7 +3,7 @@
   I'm <strong>Kai (lambiengcode)</strong>, currently working as the Technical Leader at <a href="https://play.google.com/store/apps/details?id=com.askany"><strong>Askany</strong></a>.
 <img src="https://github.com/lambiengcode/lambiengcode/blob/main/gif/banner_gif.gif?raw=true" width="26.5%" height=auto align="right" alt="Computador">
 Also, I'm a freelancer. If you have a need for a mobile application or website, contact me by email: <a href="lambiengcode@gmail.com">lambiengcode@gmail.com</a><br><br>
-With 3 years of experience working with Flutter and having written Native modules (Kotlin/Java, Swift) to develop Mobile Applications, I would like to work in a Mobile Application Development position.
+With over 3 years of experience working with Flutter and having written Native modules (Kotlin/Java, Swift) to develop Mobile Applications, I would like to work in a Mobile Application Development position.
 The next goal is to develop more complete applications, learn and develop more skills in Native Languages ​​(Kotlin/Java, Swift) and develop management skills to become a reliable Team Leader.<br><br>
 <strong>Askany</strong>: https://askany.com/chi-tiet-chuyen-gia/lambiengcode <br>
 <strong>Pub.dev</strong>: https://pub.dev/publishers/lambiengcode.ml/packages <br>
