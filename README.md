@@ -9,7 +9,6 @@ The next goal is to develop more complete applications, learn and develop more s
 <strong>Pub.dev</strong>: https://pub.dev/publishers/lambiengcode.ml/packages <br>
 <strong>Blog</strong>: https://lambiengcode.blogspot.com <br>
 
-<strong>✍🏿 Article</strong>: <a href="https://topchuyengia.vn/top-chuyen-gia/chuyen-gia-it#Dao_hong_vinh">topchuyengia.vn</a> <br> 
 <strong>🪄 Fun fact</strong>: You cannot complete a project without using StackOverflow <br>
 </p>
 <!-- <strong>Additional...</strong>
