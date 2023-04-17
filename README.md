@@ -5,16 +5,23 @@ The next goal is to develop more complete applications, learn and develop more s
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/lambiengcode?style=social)](https://twitter.com/lambiengcode)[![Github Followers](https://img.shields.io/github/followers/lambiengcode?label=Follow)](https://github.com/lambiengcode)[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/lambiengcode)[![wakatime](https://wakatime.com/badge/user/5d4db953-dc6c-4757-bdef-ad13371c1fab.svg)](https://wakatime.com/@5d4db953-dc6c-4757-bdef-ad13371c1fab)![views](https://komarev.com/ghpvc/?username=lambiengcode&color=brightgreen)
 <p align="justify">
-Welcome to my Github profile 👋. I'm a Software Engineer, with a passion for building innovative applications and solving complex problems. In my github, you will find information about my skills, projects, and experience. I'm <strong>Kai (lambiengcode)</strong>, currently working as the Technical Leader at <a href="https://play.google.com/store/apps/details?id=com.askany"><strong>Askany - Assistant & Chatbot</strong></a> and <a href="https://play.google.com/store/apps/details?id=com.waodate"><strong>Waodate</strong></a>.
+<h4>Welcome to my Github 👋 </h4>
+I'm Kai, a passionate software engineer with a focus on building innovative applications and solving complex problems. I specialize in mobile app development, with over 3 years of experience working with Flutter and writing native modules in Kotlin/Java and Swift.
 <img src="https://github.com/lambiengcode/lambiengcode/blob/main/gif/banner_gif.gif?raw=true" width="23.69%" height=auto align="right" loading=lazy alt="mobile developer, interested in flutter, kotlin, swift">  
-If you have any questions related to technology, reach me by email: <a href="lambiengcode@gmail.com">lambiengcode@gmail.com</a><br><br>
-With over 3 years of experience working with Flutter and having written Native modules (Kotlin/Java, Swift) to develop Mobile Applications, I would like to work in a Mobile Application Development position.
-The next goal is to develop more complete applications, learn and develop more skills in Native Languages ​​(Kotlin/Java, Swift) and develop management skills to become a reliable Team Leader.<br><br>
-<strong>Askany</strong>: https://askany.com/chi-tiet-chuyen-gia/lambiengcode <br>
-<strong>Pub.dev</strong>: https://pub.dev/publishers/lambiengcode.ml/packages <br>
-<strong>Blog</strong>: https://lambiengcode.blogspot.com <br>
 
-<strong>🪄 Fun fact</strong>: You cannot complete a project without using StackOverflow <br>
+🚀 My current projects:
+
+- [Askany](https://play.google.com/store/apps/details?id=com.askany) - Assistant & Chatbot
+- [Pub.dev](https://pub.dev/publishers/lambiengcode.ml/packages) - Packages publisher
+- [Blog](https://lambiengcode.blogspot.com) - Sharing my knowledge and experience
+
+💬 Let's connect: I'm always happy to chat and help with any tech-related questions you may have. Reach out to me via email at lambiengcode@gmail.com.
+
+🎯 My goal: To develop complete applications, master native languages (Kotlin/Java, Swift), and grow my leadership skills to become a reliable team leader.
+
+🪄 Fun fact: You cannot complete a project without using StackOverflow!
+
+Don't hesitate to check out my repositories and contributions. Let's learn and grow together!
 </p>
 <!-- <strong>Additional...</strong>
 - Idea Award Hackathon HoChiMinh City 2020 - [Repository](https://github.com/hongvinhmobile/hackathon2020)
