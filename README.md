@@ -13,6 +13,8 @@ I'm <strong>Kai (lambiengcode)</strong>, currently working as the Technical Lead
 With over 3 years of experience working with Flutter and having written Native modules (Kotlin/Java, Swift) to develop Mobile Applications, I would like to work in a Mobile Application Development position.
 The next goal is to develop more complete applications, learn and develop more skills in Native Languages ​​(Kotlin/Java, Swift) and develop management skills to become a reliable Team Leader.<br><br>
 
+🛠️ Open for work: I'm looking for a flutter remote job, if you're hiring or you know someone hiring, lets refer me [Resume](https://lambiengcode.hackerresume.io/c44aa348-81de-4239-a7ea-676973a59b43) 🕊️
+
 Askany: https://askany.com/chi-tiet-chuyen-gia/lambiengcode <br>
 Pub.dev: https://pub.dev/publishers/lambiengcode.ml/packages <br>
 Blog: https://lambiengcode.blogspot.com <br>
