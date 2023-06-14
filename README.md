@@ -1,5 +1,5 @@
 <meta name="og:title" property="og:title" content="lambiengcode - currently working as the Technical Leader at Askany & Waterbus">
-<meta name="title" content="lambiengcode - currently working as the Technical Leader at Askany & Waterbus">
+<meta name="title" content="lambiengcode - currently working as the Tech Leader at Askany & Waterbus">
 <meta name="description" content="With over 3 years of experience working with Flutter and having written Native modules (Kotlin/Java, Swift) to develop Mobile Applications, I would like to work in a Mobile Application Development position.
 The next goal is to develop more complete applications, learn and develop more skills in Native Languages ​​(Kotlin/Java, Swift) and develop management skills to become a reliable Team Leader.">
 
