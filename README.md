@@ -51,6 +51,6 @@ JavaScript      1 hr 58 mins    ⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!--END_SECTION:waka-->
 
-Sponsor me 🕊️❤️
+💥 Sponsor me 🍨 
 
-<a href="https://www.buymeacoffee.com/lambiengcode" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 50px !important;width: 217px !important;" ></a>
+<a href="https://www.buymeacoffee.com/lambiengcode" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 44px !important;" ></a>
