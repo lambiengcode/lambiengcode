@@ -15,9 +15,9 @@ The next goal is to develop more complete applications, learn and develop more s
 
 🛠️ Open for work - [Resume](https://lambiengcode.hackerresume.io/c44aa348-81de-4239-a7ea-676973a59b43): I'm looking for a flutter remote job, if you're hiring or you know someone hiring, lets refer me 🕊️
 
-Askany: <a href="https://askany.com/chi-tiet-chuyen-gia/lambiengcode">Consulting via Askany - 通过 Askany 进行咨询</a> <br>
-Pub.dev: <a href="https://pub.dev/publishers/lambiengcode.ml/packages"> Packages on pub.dev - pub.dev 上的软件包</a> <br>
-Blogspot: <a href="https://lambiengcode.blogspot.com"> My stories on blog - 我在博客上的故事</a> <br>
+🌏 Askany: <a href="https://askany.com/chi-tiet-chuyen-gia/lambiengcode">Consulting via Askany - 通过 Askany 进行咨询</a> <br>
+📦 Pub.dev: <a href="https://pub.dev/publishers/lambiengcode.ml/packages"> Packages on pub.dev - pub.dev 上的软件包</a> <br>
+✍️ Blogspot: <a href="https://lambiengcode.blogspot.com"> My stories on blog - 我在博客上的故事</a> <br>
 
 <strong>🪄 Fun fact</strong>: You cannot complete a project without using StackOverflow (不使用 StackOverflow 就无法完成项目) <br>
 </p>
