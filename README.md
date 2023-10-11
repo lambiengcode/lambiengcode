@@ -19,11 +19,6 @@ With ******4 years****** of software development experience, I have a particular
 <strong>⛵ Fun fact</strong>: You cannot complete a project without using StackOverflow <br>
 </p>
 
-<p>
-<img src="http://45.77.241.49:9000?username=lambiengcode&count_private=true&show_icons=true&theme=algolia&include_all_commits=true&custom_title=lambiengcode&raw=true&border_radius=8&border_color=3d0066" height="185em" alt="lambiengcode"/>
-<img src="http://45.77.241.49:9000/top-langs/?username=lambiengcode&show_icons=true&layout=compact&cache_seconds=1800&langs_count=8&theme=algolia&count_private=true&show_icons=true&border_radius=8&border_color=3d0066" height="185em"/>
-</p>
-
 #### Skills & Tools
 [![My Skills](https://skillicons.dev/icons?i=flutter,dart,kotlin,androidstudio,swift,nodejs,aws,firebase,linux,nginx,mongodb,github&perline=15&theme=dark)](https://skillicons.dev)
 
@@ -40,9 +35,10 @@ JSON              1 hr 8 mins     ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <!--END_SECTION:waka-->
 
-<!--💥 Sponsor me (赞助我) 🍨
-
-<a href="https://www.buymeacoffee.com/lambiengcode" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 44px !important;" ></a>-->
+<p>
+<img src="http://45.77.241.49:9000?username=lambiengcode&count_private=true&show_icons=true&theme=algolia&include_all_commits=true&custom_title=lambiengcode&raw=true&border_radius=8&border_color=3d0066" height="185em" alt="lambiengcode"/>
+<img src="http://45.77.241.49:9000/top-langs/?username=lambiengcode&show_icons=true&layout=compact&cache_seconds=1800&langs_count=8&theme=algolia&count_private=true&show_icons=true&border_radius=8&border_color=3d0066" height="185em"/>
+</p>
 
 
 
