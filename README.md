@@ -12,13 +12,11 @@
 I'm ******Kai (lambiengcode)******, currently working at ******Askany****** and [Waterbus](https://github.com/waterbustech) as a ******TechLead******. If you have any questions related to technology, reach me by email: ******lambiengcode@gmail.com, lambiengcode@waterbus.tech******
 
 With ******4 years****** of software development experience, I have a particular interest in ******WebRTC and real-time requirements******. I often utilize Flutter and Native (Kotlin/Swift) to enhance the functionality of my Flutter applications with native modules. My goal is to create valuable products for the community and find an environment where I can further develop my skills.
-<br><br>
+<br>
 
-🌏 Askany: <a href="https://askany.com/chi-tiet-chuyen-gia/lambiengcode">Consulting via Askany</a> <br>
 📦 Pub.dev: <a href="https://pub.dev/publishers/lambiengcode.ml/packages"> Packages on pub.dev</a> <br>
-✍️ Blogspot: <a href="https://lambiengcode.blogspot.com"> My stories on blog</a> <br>
 
-<strong>🪄 Fun fact</strong>: You cannot complete a project without using StackOverflow <br>
+<strong>⛵ Fun fact</strong>: You cannot complete a project without using StackOverflow <br>
 </p>
 
 <p>
