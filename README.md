@@ -14,7 +14,7 @@ I'm ******Kai (lambiengcode)******, currently working at ******Askany****** and 
 With ******4 years****** of software development experience, I have a particular interest in ******WebRTC and real-time requirements******. I often utilize Flutter and Native (Kotlin/Swift) to enhance the functionality of my Flutter applications with native modules. My goal is to create valuable products for the community and find an environment where I can further develop my skills.
 <br>
 
-📦 Pub.dev: <a href="https://pub.dev/publishers/lambiengcode.ml/packages"> Packages on pub.dev</a> <br>
+📦 Pub.dev: <a href="https://pub.dev/publishers/waterbus.tech/packages"> Packages on pub.dev</a> <br>
 
 <strong>⛵ Fun fact</strong>: You cannot complete a project without using StackOverflow <br>
 </p>
