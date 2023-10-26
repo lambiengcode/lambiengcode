@@ -5,13 +5,23 @@
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lambiengcode@gmail.com)[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/lambiengcode)[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=black)](https://t.me/lambiengcode)[![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://join.slack.com/t/waterbusio/shared_invite/zt-23xf0uoav-soZ88eJ8lR~KVrspye29Hw)[![Skype](https://img.shields.io/badge/Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=white)](https://join.skype.com/invite/uJA4F1b2TdlP)[![Pub.dev](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://pub.dev/publishers/lambiengcode.ml/packages)
 <p align="justify">
-<img src="https://github.com/lambiengcode/lambiengcode/blob/main/gif/banner_gif.gif?raw=true" width="23%" height=auto align="right" alt="Computer">
+<img src="https://github.com/lambiengcode/lambiengcode/blob/main/gif/banner_gif.gif?raw=true" width="30%" height=auto align="right" alt="Computer">
 
 🕊️ ******Welcome to my Github profile****** 👋
 
-I'm ******Kai (lambiengcode)******, currently working at ******Askany****** and [Waterbus](https://github.com/waterbustech) as a ******TechLead******. If you have any questions related to technology, reach me by email: ******lambiengcode@gmail.com, lambiengcode@waterbus.tech******
+<p align="justify">
+  I'm <strong>Kai (lambiengcode)</strong>, currently working at
+  <a href="https://askany.com">Askany</a> and
+  <a href="https://github.com/waterbustech">Waterbus</a> as a
+  <strong>TechLead</strong>. If you have any questions related to technology, reach me by email:
+  <a href="mailto:lambiengcode@gmail.com">lambiengcode@gmail.com</a>,
+  <a href="mailto:lambiengcode@waterbus.tech">lambiengcode@waterbus.tech</a>.
+</p>
 
-With ******4 years****** of software development experience, I have a particular interest in ******WebRTC and real-time requirements******. I often utilize Flutter and Native (Kotlin/Swift) to enhance the functionality of my Flutter applications with native modules. My goal is to create valuable products for the community and find an environment where I can further develop my skills.
+<p align="justify">
+  With <strong>4 years</strong> of software development experience, I have a particular interest in
+  <strong>WebRTC and real-time requirements</strong>. I often utilize Flutter and Native (Kotlin/Swift) to enhance the functionality of my Flutter applications with native modules. My goal is to create valuable products for the community and find an environment where I can further develop my skills.
+</p>
 <br>
 
 📦 Pub.dev: <a href="https://pub.dev/publishers/waterbus.tech/packages"> Packages on pub.dev</a> <br>
