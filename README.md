@@ -5,7 +5,7 @@
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lambiengcode@gmail.com)[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/lambiengcode)[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=black)](https://t.me/lambiengcode)[![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://join.slack.com/t/waterbusio/shared_invite/zt-23xf0uoav-soZ88eJ8lR~KVrspye29Hw)[![Skype](https://img.shields.io/badge/Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=white)](https://join.skype.com/invite/uJA4F1b2TdlP)[![Pub.dev](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://pub.dev/publishers/lambiengcode.ml/packages)
 <p align="justify">
-<img src="https://github.com/lambiengcode/lambiengcode/blob/main/gif/dash.gif?raw=true" width="28%" height=auto align="right" alt="Computer">
+<img src="https://github.com/lambiengcode/lambiengcode/blob/main/gif/dash.gif?raw=true" width="340px" align="right" alt="Computer">
 
 🕊️ ******Welcome to my Github profile****** 👋
 
