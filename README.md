@@ -12,7 +12,7 @@
 <p align="justify">
   I'm <strong>Kai (lambiengcode)</strong>, currently working at
   <a href="https://askany.com">Askany</a> and
-  <a href="https://github.com/waterbustech">Waterbus</a> as a
+  <a href="https://github.com/lambiengcode/waterbus">Waterbus</a> as a
   <strong>TechLead</strong>. If you have any questions related to technology, reach me by email:
   <a href="mailto:lambiengcode@gmail.com">lambiengcode@gmail.com</a>,
   <a href="mailto:lambiengcode@waterbus.tech">lambiengcode@waterbus.tech</a>.
