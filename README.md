@@ -30,7 +30,8 @@
 </p>
 
 #### Skills & Tools
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart,kotlin,androidstudio,swift,nodejs,aws,firebase,linux,nginx,mongodb,github&perline=15&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,kotlin,androidstudio,swift,nodejs,aws,firebase,linux,nginx,mongodb,github&perline=15&theme=dark)](https://skillicons.dev#gh-dark-mode-only)
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,kotlin,androidstudio,swift,nodejs,aws,firebase,linux,nginx,mongodb,github&perline=15&theme=light)](https://skillicons.dev#gh-light-mode-only)
 
 #### Coding Stats - Last 7 Days
 <!--START_SECTION:waka-->
@@ -46,13 +47,13 @@ Groovy            1 hr 46 mins    ⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <!--END_SECTION:waka-->
 
 <p>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/lambiengcode/waterbus">
 <picture>
   <source height="165em" alt="lambiengcode" media="(prefers-color-scheme: dark)" srcset="https://docs.waterbus.tech/github?username=lambiengcode&count_private=true&show_icons=true&theme=algolia&include_all_commits=true&custom_title=lambiengcode&raw=true&border_radius=8&border_color=3d0066">
   <img height="165em" alt="lambiengcode" src="https://docs.waterbus.tech/github?username=lambiengcode&count_private=true&show_icons=true&theme=default&include_all_commits=true&custom_title=lambiengcode&raw=true&border_radius=8">
 </picture>
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/lambiengcode/waterbus">
 <picture>
   <source height="165em" alt="lambiengcode" media="(prefers-color-scheme: dark)" srcset="https://docs.waterbus.tech/github/top-langs/?username=lambiengcode&show_icons=true&layout=compact&cache_seconds=1800&langs_count=8&theme=algolia&count_private=true&show_icons=true&border_radius=8&border_color=3d0066">
   <img height="165em" alt="lambiengcode" src="https://docs.waterbus.tech/github/top-langs/?username=lambiengcode&show_icons=true&layout=compact&cache_seconds=1800&langs_count=8&theme=default&count_private=true&show_icons=true&border_radius=8">
