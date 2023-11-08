@@ -46,8 +46,18 @@ Groovy            1 hr 46 mins    ⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <!--END_SECTION:waka-->
 
 <p>
-<img src="https://docs.waterbus.tech/github?username=lambiengcode&count_private=true&show_icons=true&theme=algolia&include_all_commits=true&custom_title=lambiengcode&raw=true&border_radius=8&border_color=3d0066" height="165em" alt="lambiengcode"/>
-<img src="https://docs.waterbus.tech/github/top-langs/?username=lambiengcode&show_icons=true&layout=compact&cache_seconds=1800&langs_count=8&theme=algolia&count_private=true&show_icons=true&border_radius=8&border_color=3d0066" height="165em"/>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<picture>
+  <source height="165em" alt="lambiengcode" media="(prefers-color-scheme: dark)" srcset="https://docs.waterbus.tech/github?username=lambiengcode&count_private=true&show_icons=true&theme=algolia&include_all_commits=true&custom_title=lambiengcode&raw=true&border_radius=8&border_color=3d0066">
+  <img height="165em" alt="lambiengcode" src="https://docs.waterbus.tech/github?username=lambiengcode&count_private=true&show_icons=true&theme=default&include_all_commits=true&custom_title=lambiengcode&raw=true&border_radius=8">
+</picture>
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<picture>
+  <source height="165em" alt="lambiengcode" media="(prefers-color-scheme: dark)" srcset="https://docs.waterbus.tech/github/top-langs/?username=lambiengcode&show_icons=true&layout=compact&cache_seconds=1800&langs_count=8&theme=algolia&count_private=true&show_icons=true&border_radius=8&border_color=3d0066">
+  <img height="165em" alt="lambiengcode" src="https://docs.waterbus.tech/github/top-langs/?username=lambiengcode&show_icons=true&layout=compact&cache_seconds=1800&langs_count=8&theme=default&count_private=true&show_icons=true&border_radius=8">
+</picture>
+</a>
 </p>
 
 
