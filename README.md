@@ -1,7 +1,7 @@
 <meta name="og:title" property="og:title" content="lambiengcode - currently working as the Technical Leader at Askany & Waterbus">
 <meta name="title" content="lambiengcode - currently working as the Tech Leader at Askany & Waterbus">
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/lambiengcode?style=social)](https://twitter.com/lambiengcode)[![Github Followers](https://img.shields.io/github/followers/lambiengcode?label=Follow)](https://github.com/lambiengcode)[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/lambiengcode)[![wakatime](https://wakatime.com/badge/user/5d4db953-dc6c-4757-bdef-ad13371c1fab.svg)](https://wakatime.com/@5d4db953-dc6c-4757-bdef-ad13371c1fab)![views](https://komarev.com/ghpvc/?username=lambiengcode&color=brightgreen)
+[![Twitter Follow](https://img.shields.io/twitter/follow/lambiengcode?style=social)](https://twitter.com/lambiengcode)[![Github Followers](https://img.shields.io/github/followers/lambiengcode?label=Follow)](https://github.com/lambiengcode)[![wakatime](https://wakatime.com/badge/user/5d4db953-dc6c-4757-bdef-ad13371c1fab.svg)](https://wakatime.com/@5d4db953-dc6c-4757-bdef-ad13371c1fab)![views](https://komarev.com/ghpvc/?username=lambiengcode&color=brightgreen)
 
 <p align="justify">
 <img src="https://github.com/lambiengcode/lambiengcode/blob/main/gif/dash.gif?raw=true" width="340px" align="right" alt="Computer">
@@ -45,6 +45,7 @@ Groovy            1 hr 41 mins    ⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <!--END_SECTION:waka-->
 
+<!--
 <p>
 <a href="https://github.com/lambiengcode/waterbus">
 <picture>
@@ -59,6 +60,4 @@ Groovy            1 hr 41 mins    ⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 </picture>
 </a>
 </p>
-
-
-
+-->
