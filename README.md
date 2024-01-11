@@ -1,6 +1,3 @@
-<meta name="og:title" property="og:title" content="lambiengcode - currently working as the Technical Leader at Askany & Waterbus">
-<meta name="title" content="lambiengcode - currently working as the Tech Leader at Askany & Waterbus">
-
 [![Twitter Follow](https://img.shields.io/twitter/follow/lambiengcode?style=social)](https://twitter.com/lambiengcode)[![Github Followers](https://img.shields.io/github/followers/lambiengcode?label=Follow)](https://github.com/lambiengcode)[![wakatime](https://wakatime.com/badge/user/5d4db953-dc6c-4757-bdef-ad13371c1fab.svg)](https://wakatime.com/@5d4db953-dc6c-4757-bdef-ad13371c1fab)![views](https://komarev.com/ghpvc/?username=lambiengcode&color=brightgreen)
 
 <p align="justify">
@@ -24,15 +21,13 @@
 <br>
 
 📦 Pub.dev: <a href="https://pub.dev/publishers/waterbus.tech/packages"> Packages on pub.dev</a> <br>
-
-<strong>⛵ Fun fact</strong>: You cannot complete a project without using StackOverflow <br>
 </p>
 
-#### Skills & Tools
+### 🛠️ Skills & Tools
 [![My Skills](https://skillicons.dev/icons?i=flutter,dart,kotlin,androidstudio,swift,nodejs,aws,firebase,linux,nginx,mongodb,github&perline=15&theme=dark)](https://skillicons.dev#gh-dark-mode-only)
 [![My Skills](https://skillicons.dev/icons?i=flutter,dart,kotlin,androidstudio,swift,nodejs,aws,firebase,linux,nginx,mongodb,github&perline=15&theme=light)](https://skillicons.dev#gh-light-mode-only)
 
-#### Coding Stats - Last 7 Days
+### ⚙️ Coding Stats - Last 7 Days
 <!--START_SECTION:waka-->
 
 ```txt
