@@ -1,7 +1,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/lambiengcode?style=social)](https://twitter.com/lambiengcode)[![Github Followers](https://img.shields.io/github/followers/lambiengcode?label=Follow)](https://github.com/lambiengcode)[![wakatime](https://wakatime.com/badge/user/5d4db953-dc6c-4757-bdef-ad13371c1fab.svg)](https://wakatime.com/@5d4db953-dc6c-4757-bdef-ad13371c1fab)![views](https://komarev.com/ghpvc/?username=lambiengcode&color=brightgreen)
 
 <p align="justify">
-<img src="https://github.com/lambiengcode/lambiengcode/blob/main/gif/dash.gif?raw=true" width="340px" align="right" alt="Computer">
+<img src="https://octodex.github.com/images/daftpunktocat-guy.gif" width="340px" align="right" alt="Computer">
 
 🕊️ ******Welcome to my Github profile****** 👋
 
