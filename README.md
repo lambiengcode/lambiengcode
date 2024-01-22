@@ -2,8 +2,11 @@
 
 <p align="justify">
 <img src="https://octodex.github.com/images/skatetocat.png" width="340px" align="right" alt="Computer">
+
+👋 ******Welcome to my Github profile******
+  
 <p align="justify">
-  👋 I'm <strong>Kai (lambiengcode)</strong>, currently working at
+  I'm <strong>Kai (lambiengcode)</strong>, currently working at
   <a href="https://askany.com">Askany</a> and
   <a href="https://github.com/lambiengcode/waterbus">Waterbus</a> as a
   <strong>TechLead</strong>. If you have any questions related to technology, reach me by email:
@@ -15,7 +18,6 @@
   With <strong>4 years</strong> of software development experience, I have a particular interest in
   <strong>WebRTC and real-time requirements</strong>. I often utilize Flutter and Native (Kotlin/Swift) to enhance the functionality of my Flutter applications with native modules. My goal is to create valuable products for the community and find an environment where I can further develop my skills.
 </p>
-<br/>
 </p>
 
 #### 📦 Pub.dev: https://pub.dev/publishers/waterbus.tech/packages
