@@ -1,12 +1,10 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/lambiengcode?style=social)](https://twitter.com/lambiengcode)[![Github Followers](https://img.shields.io/github/followers/lambiengcode?label=Follow)](https://github.com/lambiengcode)[![wakatime](https://wakatime.com/badge/user/5d4db953-dc6c-4757-bdef-ad13371c1fab.svg)](https://wakatime.com/@5d4db953-dc6c-4757-bdef-ad13371c1fab)![views](https://komarev.com/ghpvc/?username=lambiengcode&color=brightgreen)
 
 <p align="justify">
-<img src="https://octodex.github.com/images/daftpunktocat-guy.gif" width="340px" align="right" alt="Computer">
-
-🕊️ ******Welcome to my Github profile****** 👋
+<img src="https://octodex.github.com/images/skatetocat.png" width="340px" align="right" alt="Computer">
 
 <p align="justify">
-  I'm <strong>Kai (lambiengcode)</strong>, currently working at
+  👋 I'm <strong>Kai (lambiengcode)</strong>, currently working at
   <a href="https://askany.com">Askany</a> and
   <a href="https://github.com/lambiengcode/waterbus">Waterbus</a> as a
   <strong>TechLead</strong>. If you have any questions related to technology, reach me by email:
@@ -18,16 +16,15 @@
   With <strong>4 years</strong> of software development experience, I have a particular interest in
   <strong>WebRTC and real-time requirements</strong>. I often utilize Flutter and Native (Kotlin/Swift) to enhance the functionality of my Flutter applications with native modules. My goal is to create valuable products for the community and find an environment where I can further develop my skills.
 </p>
-<br>
-
-📦 Pub.dev: <a href="https://pub.dev/publishers/waterbus.tech/packages"> Packages on pub.dev</a> <br>
 </p>
 
-### 🛠️ Skills & Tools
+#### 📦 Pub.dev: https://pub.dev/publishers/waterbus.tech/packages
+
+#### 🛠️ Skills & Tools
 [![My Skills](https://skillicons.dev/icons?i=flutter,dart,kotlin,androidstudio,swift,nodejs,aws,firebase,linux,nginx,mongodb,github&perline=15&theme=dark)](https://skillicons.dev#gh-dark-mode-only)
 [![My Skills](https://skillicons.dev/icons?i=flutter,dart,kotlin,androidstudio,swift,nodejs,aws,firebase,linux,nginx,mongodb,github&perline=15&theme=light)](https://skillicons.dev#gh-light-mode-only)
 
-### ⚙️ Coding Stats - Last 7 Days
+#### ⚙️ Coding Stats - Last 7 Days
 <!--START_SECTION:waka-->
 
 ```txt
