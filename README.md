@@ -1,26 +1,22 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/lambiengcode?style=social)](https://twitter.com/lambiengcode)[![Github Followers](https://img.shields.io/github/followers/lambiengcode?label=Follow)](https://github.com/lambiengcode)[![wakatime](https://wakatime.com/badge/user/5d4db953-dc6c-4757-bdef-ad13371c1fab.svg)](https://wakatime.com/@5d4db953-dc6c-4757-bdef-ad13371c1fab)![views](https://komarev.com/ghpvc/?username=lambiengcode&color=brightgreen)
-
-<p align="justify">
 <img src="https://github.com/lambiengcode/lambiengcode/blob/main/gif/droidtocat-2.png?raw=true" width="340px" align="right" alt="Computer">
-
-👋 ******Welcome to my Github profile******
+<p align="justify">
+<br/>  
+👋 Hey there! Welcome to my GitHub space!
   
 <p align="justify">
-  I'm <strong>Kai (lambiengcode)</strong>, currently working at
-  <a href="https://askany.com">Askany</a> and
-  <a href="https://github.com/lambiengcode/waterbus">Waterbus</a> as a
-  <strong>TechLead</strong>. If you have any questions related to technology, reach me by email:
-  <a href="mailto:lambiengcode@gmail.com">lambiengcode@gmail.com</a>,
-  <a href="mailto:lambiengcode@waterbus.tech">lambiengcode@waterbus.tech</a>.
+  I'm Kai, also known as lambiengcode, currently steering the tech ship at Askany and Waterbus as a TechLead. My playground revolves around code, and I'm here to share the excitement with you. Have a tech question? Hit me up at <a href="mailto:lambiengcode@gmail.com">lambiengcode@gmail.com</a>.
 </p>
 
 <p align="justify">
-  With <strong>4 years</strong> of software development experience, I have a particular interest in
-  <strong>WebRTC and real-time requirements</strong>. I often utilize Flutter and Native (Kotlin/Swift) to enhance the functionality of my Flutter applications with native modules. My goal is to create valuable products for the community and find an environment where I can further develop my skills.
+  Over the past 4 years, I've been immersed in the world of software development, channeling my passion into the realms of open source and WebRTC. What makes my coding heart beat faster? Bringing real-time to application!
+
+  Feel free to explore my repositories and join me on this exciting coding journey. 🚀✨
 </p>
 </p>
 
-#### 📦 Pub.dev: https://pub.dev/publishers/waterbus.tech/packages
+<!--
+#### 📦 Packages: [pub.dev](https://pub.dev/publishers/waterbus.tech/packages) 
 
 #### 🛠️ Skills & Tools
 [![My Skills](https://skillicons.dev/icons?i=flutter,dart,kotlin,androidstudio,swift,nodejs,aws,firebase,linux,nginx,mongodb,github&perline=15&theme=dark)](https://skillicons.dev#gh-dark-mode-only)
@@ -28,7 +24,7 @@
 
 #### ⚙️ Coding Stats - Last 7 Days
 <!--START_SECTION:waka-->
-
+<!--
 ```txt
 Dart              39 hrs 10 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣀   92.70 %
 YAML              1 hr 30 mins    ⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.55 %
@@ -38,7 +34,6 @@ Other             23 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ```
 
 <!--END_SECTION:waka-->
-
 <!--
 <p>
 <a href="https://github.com/lambiengcode/waterbus">
