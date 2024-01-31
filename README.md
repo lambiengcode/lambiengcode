@@ -14,7 +14,8 @@
 </p>
 </p>
 
-#### 🧰 Languages and Tools
+### 🧰 Languages and Tools
+
 [![My Skills](https://skillicons.dev/icons?i=flutter,dart,kotlin,androidstudio,swift,nodejs,aws,firebase,linux,nginx,mongodb,github&perline=15&theme=dark)](https://skillicons.dev#gh-dark-mode-only)
 [![My Skills](https://skillicons.dev/icons?i=flutter,dart,kotlin,androidstudio,swift,nodejs,aws,firebase,linux,nginx,mongodb,github&perline=15&theme=light)](https://skillicons.dev#gh-light-mode-only)
 
@@ -27,7 +28,7 @@
 <!-- END YOUTUBE-CARDS -->
 
 
-#### ⚙️ Coding Stats - Last 7 Days
+### ⚙️ Coding Stats - Last 7 Days
 <!--START_SECTION:waka-->
 
 ```txt
