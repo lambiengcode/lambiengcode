@@ -6,8 +6,10 @@
 
 <p align="justify">
   I'm Kai, also known as lambiengcode, currently steering the tech ship at Askany and Waterbus as a TechLead. My playground revolves around code, and I'm here to share the excitement with you. Have a tech question? Hit me up at <a href="mailto:lambiengcode@gmail.com">lambiengcode@gmail.com</a>.
+</p>
 
-  Over the past 4 years, I've been immersed in the world of software development, channeling my passion into the realms of open source and WebRTC. What makes my coding heart beat faster? Bringing real-time to application!
+<p align="justify">
+   Over the past 4 years, I've been immersed in the world of software development, channeling my passion into the realms of open source and WebRTC. What makes my coding heart beat faster? Bringing real-time to application!
 
   Feel free to explore my repositories and join me on this exciting coding journey. 🚀✨
 </p>
