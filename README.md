@@ -42,26 +42,5 @@ C++          52 mins         ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!--END_SECTION:waka-->
 
-<details>
- <summary><h3>👨‍💻 Kai's Coding Journey</h3></summary>
-   Over the past 4 years, I've been immersed in the world of software development, channeling my passion into the realms of open source and WebRTC. What makes my coding heart beat faster? Bringing real-time to application!
-
-  Feel free to explore my repositories and join me on this exciting coding journey. 🚀✨
-<p>
-  
-<a href="https://github.com/lambiengcode/waterbus">
-<picture>
-  <source minWidth="340px" width="430px" alt="lambiengcode" media="(prefers-color-scheme: dark)" srcset="https://docs.waterbus.tech/github?username=lambiengcode&count_private=true&show_icons=true&theme=algolia&include_all_commits=true&custom_title=lambiengcode&raw=true&border_radius=8&border_color=3d0066">
-  <img minWidth="340px" width="430px" alt="lambiengcode" src="https://docs.waterbus.tech/github?username=lambiengcode&count_private=true&show_icons=true&theme=default&include_all_commits=true&custom_title=lambiengcode&raw=true&border_radius=8">
-</picture>
-</a>
-<a href="https://github.com/lambiengcode/waterbus">
-<picture>
-  <source minWidth="280px" width="285px" alt="lambiengcode" media="(prefers-color-scheme: dark)" srcset="https://docs.waterbus.tech/github/top-langs/?username=lambiengcode&show_icons=true&layout=compact&cache_seconds=1800&langs_count=8&theme=algolia&count_private=true&show_icons=true&border_radius=8&border_color=3d0066">
-  <img minWidth="280px" width="285px" alt="lambiengcode" src="https://docs.waterbus.tech/github/top-langs/?username=lambiengcode&show_icons=true&layout=compact&cache_seconds=1800&langs_count=8&theme=default&count_private=true&show_icons=true&border_radius=8">
-</picture>
-</a>
-</p>
-
 [website]: https://docs.waterbus.tech
 [youtube]: https://youtube.com/lambiengcode
