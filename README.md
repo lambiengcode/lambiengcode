@@ -1,6 +1,6 @@
 [![Github Followers](https://img.shields.io/github/followers/lambiengcode?label=Follow)](https://github.com/lambiengcode)![GitHub User's stars](https://img.shields.io/github/stars/lambiengcode)![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCIDiDk5xTdwtyvznnpLA3Iw)
 [![wakatime](https://wakatime.com/badge/user/5d4db953-dc6c-4757-bdef-ad13371c1fab.svg)](https://wakatime.com/@5d4db953-dc6c-4757-bdef-ad13371c1fab)![views](https://komarev.com/ghpvc/?username=lambiengcode&color=brightgreen)
-<img src="https://github.com/lambiengcode/lambiengcode/blob/main/gif/dinotocat-2.png?raw=true" width="340px" align="right" alt="Computer">
+<img src="https://github.com/lambiengcode/lambiengcode/blob/main/gif/dash.gif?raw=true" width="340px" align="right" alt="Computer">
 <p align="justify">
 <h4>👋 Hey there! Welcome to my GitHub space!</h3>
 
