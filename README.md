@@ -9,7 +9,7 @@
 </p>
 
 <p align="justify">
-   Over the past 4 years, I've been immersed in the world of software development, channeling my passion into the realms of open source and WebRTC. What makes my coding heart beat faster? Bringing real-time to application!
+   I'm really interested in WebRTC and that is main reason I kick off <a href="http://github.com/lambiengcode/waterbus">Waterbus</a> is an open source project for curious and experimental, it's try to apply some interesting features related to VoIP. I bet you can find something there.
 
   Feel free to explore my repositories and join me on this exciting coding journey. 🚀✨
 </p>
