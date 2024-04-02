@@ -1,8 +1,10 @@
+<!--
 [![Github Followers](https://img.shields.io/github/followers/lambiengcode?label=Follow)](https://github.com/lambiengcode)![GitHub User's stars](https://img.shields.io/github/stars/lambiengcode)![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCIDiDk5xTdwtyvznnpLA3Iw)
 [![wakatime](https://wakatime.com/badge/user/5d4db953-dc6c-4757-bdef-ad13371c1fab.svg)](https://wakatime.com/@5d4db953-dc6c-4757-bdef-ad13371c1fab)![views](https://komarev.com/ghpvc/?username=lambiengcode&color=brightgreen)
-<img src="https://github.com/lambiengcode/lambiengcode/blob/main/gif/dash.gif?raw=true" width="340px" align="right" alt="Computer">
+-->
+
 <p align="justify">
-<h4>👋 Hey there! Welcome to my GitHub space!</h3>
+<h4><img src="https://github.com/lambiengcode/lambiengcode/blob/main/gif/dash.gif?raw=true" width="25px" align="left" alt="Computer"> Hey there! 👋 Welcome to my GitHub space!</h3>
 
 <p align="justify">
   I'm Kai, also known as lambiengcode, currently steering the tech ship at Askany and Waterbus as a TechLead. My playground revolves around code, and I'm here to share the excitement with you. Have a tech question? Hit me up at <a href="mailto:lambiengcode@gmail.com">lambiengcode@gmail.com</a>.
@@ -15,10 +17,12 @@
 </p>
 </p>
 
+<!--
 <h4>👉 Languages and Tools</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=flutter,dart,kotlin,androidstudio,swift,nodejs,aws,firebase,linux,nginx,mongodb,github&perline=15&theme=dark)](https://skillicons.dev#gh-dark-mode-only)
 [![My Skills](https://skillicons.dev/icons?i=flutter,dart,kotlin,androidstudio,swift,nodejs,aws,firebase,linux,nginx,mongodb,github&perline=15&theme=light)](https://skillicons.dev#gh-light-mode-only)
+-->
 
 <h4>📺 Latest YouTube Videos</h3>
 
