@@ -1,16 +1,10 @@
-<p align="justify">
-<h4>🚀 Welcome to my GitHub space!</h3>
+🚀 Welcome to my GitHub space!
 
-<p align="justify">
-  I'm Kai, also known as lambiengcode, currently steering the tech ship at Askany and Waterbus as a TechLead. My playground revolves around code, and I'm here to share the excitement with you. Have a tech question? Hit me up at <a href="mailto:lambiengcode@gmail.com">lambiengcode@gmail.com</a>.
-</p>
+I'm Kai, also known as lambiengcode, currently steering the tech ship at Askany and Waterbus as a TechLead. My playground revolves around code, and I'm here to share the excitement with you. Have a tech question? Hit me up at lambiengcode@gmail.com.
 
-<p align="justify">
-   I'm really interested in WebRTC and that is main reason I kick off <a href="http://github.com/lambiengcode/waterbus">Waterbus</a> is an open source project for curious and experimental, it's try to apply some interesting features related to VoIP. I bet you can find something there.
+I'm really interested in WebRTC and that is main reason I kick off [Waterbus](https://github.com/lambiengcode/waterbus) is an open source project for curious and experimental, it's try to apply some interesting features related to VoIP. I bet you can find something there.
 
-  Feel free to explore my repositories and join me on this exciting coding journey. ✨
-</p>
-</p>
+Feel free to explore my repositories and join me on this exciting coding journey. ✨
 
 <!--
 <h4>👉 Languages and Tools</h3>
