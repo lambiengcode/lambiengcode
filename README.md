@@ -16,11 +16,9 @@ Feel free to explore my repositories and join me on this exciting coding journey
 <h4>📺 Latest YouTube Videos</h3>
 
 <!-- BEGIN YOUTUBE-CARDS -->
-<div align="center">
 <p><a href="https://youtube.com/shorts/Ms4avix05uY"><img src="https://ytcards.demolab.com/?id=Ms4avix05uY&amp;title=Virtual%20Background%20on%20iOS%20%28VisionKit%20for%20Person%20segment%29&amp;lang=en&amp;timestamp=1709774408&amp;background_color=%230d1117&amp;title_color=%23ffffff&amp;stats_color=%23dedede&amp;max_title_lines=2&amp;width=250&amp;border_radius=10&amp;duration=21" alt="Virtual Background on iOS (VisionKit for Person segment)" title="Virtual Background on iOS (VisionKit for Person segment"></a>
 <a href="https://youtube.com/shorts/PDIDbVoHT5o"><img src="https://ytcards.demolab.com/?id=PDIDbVoHT5o&amp;title=Virtual%20Background%20on%20Android%20%28Mediapipe%20for%20Image%20segment%29&amp;lang=en&amp;timestamp=1709774408&amp;background_color=%230d1117&amp;title_color=%23ffffff&amp;stats_color=%23dedede&amp;max_title_lines=2&amp;width=250&amp;border_radius=10&amp;duration=27" alt="Virtual Background on Android (Mediapipe for Image segment)" title="Virtual Background on Android (Mediapipe for Image segment"></a>
 <a href="https://youtube.com/shorts/esLh-n3Ao5U"><img src="https://ytcards.demolab.com/?id=esLh-n3Ao5U&amp;title=Compose+ChatGPT+Kotlin+-+Android+Chatbot&amp;lang=en&amp;timestamp=1686065878&amp;background_color=%230d1117&amp;title_color=%23ffffff&amp;stats_color=%23dedede&amp;max_title_lines=2&amp;width=250&amp;border_radius=10&amp;duration=43" alt="Compose ChatGPT Kotlin - Android Chatbot (stream: true)" title="Compose ChatGPT Kotlin - Android Chatbot"></a></p>  
-</div>
 <!-- END YOUTUBE-CARDS -->
 
 <h4>⚙️ Coding Stats - Last 7 Days</h3>
